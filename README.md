@@ -1,2 +1,2 @@
-# Everyday-Coding-Challenge
+# Daily-Coding-Practice
 This is where I make Python projects everyday.
